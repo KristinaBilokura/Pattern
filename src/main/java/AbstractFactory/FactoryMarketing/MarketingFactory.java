@@ -1,5 +1,5 @@
 package AbstractFactory.FactoryMarketing;
-
+import AbstractFactory.Advertising;
 public interface MarketingFactory {
-     public void create();
+    Advertising create();
 }

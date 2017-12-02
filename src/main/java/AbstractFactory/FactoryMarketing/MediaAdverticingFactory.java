@@ -1,4 +1,12 @@
 package AbstractFactory.FactoryMarketing;
 
-public class MediaAdverticingFactory {
+
+import AbstractFactory.Advertising;
+import AbstractFactory.Media;
+
+public class MediaAdverticingFactory implements MarketingFactory {
+    @Override
+    public Advertising create() {
+        return new Media();
+    }
 }
