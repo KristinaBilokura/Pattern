@@ -2,3 +2,7 @@ Spain airports
 [Alicante Airport (formerly El Altet Airport) , Barcelona–El Prat Airport]
 Airports of Ukraine
 [Boryspil International Airport) , Kiev (Zhuliany) International Airport, Lviv Danylo Halytskyi International Airport]
+Spain airports
+[Alicante Airport (formerly El Altet Airport) , Barcelona–El Prat Airport]
+Airports of Ukraine
+[Alicante Airport (formerly El Altet Airport) , Barcelona–El Prat Airport, Boryspil International Airport) , Kiev (Zhuliany) International Airport, Lviv Danylo Halytskyi International Airport]
